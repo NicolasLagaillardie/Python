@@ -1,0 +1,6 @@
+# -*- coding: cp1252 -*-
+# -*- coding: latin-1 -*-
+m=input('minutes ? ')
+h,m=divmod(q,60)
+j,h=divmod(h,24)
+return m,' minutes coresspondent à ( jours / heures / minutes ),'%d:%d:%d' %(j,h,m)

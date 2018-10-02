@@ -1,0 +1,4 @@
+1) Installez CursorFXPlus211_setup.exe
+2) Copiez "Keymaker & Patch" dans le repertoire d'installation
+3) Lancez "Keymaker & Patch". Changez ObjectDock Plus v2.01 vers v2.11 CursorFX Plus
+4) Cliquez "Sav License" et ensuite "Patch"

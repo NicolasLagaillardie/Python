@@ -1,0 +1,19 @@
+Cours Info 06/06/13
+
+Gentest(X,D,C
+	B←false
+	if k=n then
+		if tester(A,k,C) then
+			B←true
+	else
+		k←k+1
+		while B and 'nouveau' v dans D
+			A←Ajout(A,v,k)
+			B←Ajout(X,D,C,A,k)
+			
+			
+log[b](a)=x
+b^x=a
+donc : a^(log[b](n))=a^y=b^(xy) et n^(log[b](a))=n^x=b^(yx). D'où : a^(log[b](n))=n^(log[b](a)).
+
+produit AB → matrices → 

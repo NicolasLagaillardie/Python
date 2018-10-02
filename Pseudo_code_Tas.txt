@@ -1,0 +1,12 @@
+def entasser(T,x):
+	y=x
+	Si 2x et 2x+1 existent:
+		Prendre le minimum des fils = y
+		Si il est plus grand que le père ( x ):
+			Mettre y dans x
+	Si y!=x:
+		Echanger f(x) et f(y)
+		entasser(T,y)
+		
+def construire(T):
+	
